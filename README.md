@@ -6,3 +6,5 @@
   - MapReduce
   - Pig
   - Sqoop
+  - Hive
+  - Scala
